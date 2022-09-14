@@ -1,21 +1,12 @@
+#include "main.h"
 #include <stdio.h>
-
-
-
 /**
-
   * main - Entry point
-
-  *
-
-  * Return: Always 0
-
+  * Return: Always _putchar
   */
 
 int main(void)
-
 {
-
 	_putchar('H');
 
 	_putchar('o');
@@ -35,9 +26,7 @@ int main(void)
 	_putchar('n');
 
 	_putchar('\n');
-
-
-
+	
 	return (0);
 
 }
