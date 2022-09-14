@@ -3,7 +3,8 @@
 /**
  * _isalph - chechs for alphabetic character
  * @c:the character to be checked
- *return: for alphabetic character
+ *
+ * return: for alphabetic character
  */
 int _isalpha(int c)
 {
